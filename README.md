@@ -23,6 +23,10 @@ AI-powered customer feedback analytics dashboard built with Streamlit, Groq Llam
 - Groq API (Llama 3.3)
 - ReportLab
 
+## Dashboard Preview
+
+![Dashboard](images/dashboard.png)
+
 ## Installation
 
 ```bash
